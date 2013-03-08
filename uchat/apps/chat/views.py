@@ -11,4 +11,4 @@ class Chat(object):
         """Constructor"""
     
     def index(self):
-        return '<h1>Hello, Uliweb</h1>'
+        return {}
